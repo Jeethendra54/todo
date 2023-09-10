@@ -1,0 +1,25 @@
+/* body{
+    color: red;
+    background-color: black;
+    font-family: 'Poppins' , sans-serif;
+} */
+
+.todo{
+    display: flex;
+    justify-content: centr;
+    align-items: center;
+    border: 2px solid none;
+    height: 300px;
+}
+
+button{
+    margin-left: 5px;
+}
+
+
+li{
+    list-style: none;
+}
+
+
+
